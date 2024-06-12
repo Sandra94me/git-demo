@@ -3,11 +3,11 @@ body {
   font-family: "Bricolage Grotesque", "Noto Sans TC", sans-serif;
   margin: 0;
   padding: 0;
-  color: #333333;
+  color: #00ff00;
 }
 
 .loveInactive:hover {
-  color: #fff3ff;
+  color: #e374e7;
 }
 
 .loveInactive {
